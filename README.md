@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, my name is Frederick Almeida! I'm currently Undergraduate Student in Computer Science at Cin-UFPE. Welcome!
 <!--
 **FrederickAlmeida/FrederickAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
