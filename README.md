@@ -1,5 +1,13 @@
-### Hey there 👋
-Hi, my name is Frederick Almeida! I'm currently Undergraduate Student in Computer Science at Cin-UFPE. Welcome!
+# Hello! Welcome to my GitHub profile.
+## My name is Frederick!
+
+I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Machine learning and Deep Learning, the area I've always been fascinated about, even before starting my graduation. I love solving mathematical and programming problems, and learning new technologies!
+
+Tools and Technologies
+
+<i class="devicon-java-plain colored"></i> <i class="devicon-python-plain colored"></i>
+          
+          
 <!--
 **FrederickAlmeida/FrederickAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
