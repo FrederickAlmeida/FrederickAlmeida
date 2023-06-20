@@ -5,7 +5,9 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
 
 Tools and Technologies
 
-<i class="devicon-java-plain colored"></i> <i class="devicon-python-plain colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
           
           
 <!--
