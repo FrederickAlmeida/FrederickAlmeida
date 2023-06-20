@@ -9,7 +9,7 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
 <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGfeuL2lsNScQAAAYjWRo2AqBa9OcZt8dbb1dEdJ5SawKAnYQRvwBGUWniXOQ9o65t5TAiVBqogqv5WbsvnL3U1ofRNqEUWWbQEncy9VA1tBSfCZ_Gko1ElKrETo4G4q_UNA6Q=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrederick-lopes-a02220202%2F" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<br>
 
 Tools and Technologies
 
