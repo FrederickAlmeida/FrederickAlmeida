@@ -10,6 +10,7 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
 </div>
 
 <br>
+<br>
 
 Tools and Technologies
 
