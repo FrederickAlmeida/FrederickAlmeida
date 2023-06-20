@@ -12,7 +12,7 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
 <br>
 <br>
 
-Tools and Technologies
+## Tools and Technologies
 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
