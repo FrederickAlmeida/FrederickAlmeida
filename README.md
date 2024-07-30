@@ -30,17 +30,15 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </div>
 
+## Programming Languages
 
-
-<br>
-<br>
 <div>
           <a href="https://github.com/FrederickAlmeida">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAlmeida&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-          
+## My GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrederickAlmeida&show_icons=true&theme=tokyonight)
           
           
 <!--
