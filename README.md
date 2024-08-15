@@ -32,26 +32,14 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
 
 ## Programming Languages
 
-<div>
-          <a href="https://github.com/FrederickAlmeida">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAlmeida&layout=compact&langs_count=7&theme=dracula"/>
+<div style="text-align: center;">
+  <a href="https://github.com/FrederickAlmeida">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAlmeida&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ## My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrederickAlmeida&show_icons=true&theme=tokyonight)
-          
-          
-<!--
-**FrederickAlmeida/FrederickAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrederickAlmeida&show_icons=true&theme=tokyonight"/>
+</div>
