@@ -35,7 +35,7 @@ I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Ma
     </a>
 </div>
 
-## My GitHub Stats:
+## My GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FrederickAlmeida&show_icons=true&theme=tokyonight" style="border: none;"/>
