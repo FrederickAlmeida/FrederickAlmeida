@@ -6,7 +6,7 @@
 # Hello! Welcome to my GitHub profile.
 ## My name is Frederick!
 
-I'm a Computer Science Undergraduate at Cin-UFPE. I'm interested and studying Machine learning and Deep Learning, the area I've always been fascinated about, even before starting my graduation. I love solving mathematical and programming problems, and learning new technologies!
+I am a Data Scientist Intern at [SiDi](https://www.sidi.org.br/pt-br/), one of Brazil's top AI Research Institute. I'm also a Computer Science Undergraduate at [Cin-UFPE](https://portal.cin.ufpe.br/). I'm interested about Machine learning and Deep Learning. I love solving mathematical and programming problems, and learning new technologies!
 
 <div align="center">
     <a href="https://www.instagram.com/frederick.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
