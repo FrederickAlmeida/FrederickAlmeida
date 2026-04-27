@@ -3,8 +3,8 @@
 </head>
 
 
-# Hello! Welcome to my GitHub profile.
-## My name is Frederick!
+# Hello World!
+## I'm Frederick!
 
 I am an AI Engineer at [Praso](https://praso.com.br/), a B2B startup in the logistics field. I'm also a Computer Science Undergraduate at [Cin-UFPE](https://portal.cin.ufpe.br/). I'm interested in LLMs and Agents, passionated about AI and problem-solving.
 
