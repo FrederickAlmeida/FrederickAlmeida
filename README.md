@@ -6,7 +6,7 @@
 # Hello World!
 ## I'm Frederick!
 
-I am an AI Engineer at [Praso](https://praso.com.br/), a B2B startup in the logistics field. I'm also a Computer Science Undergraduate at [Cin-UFPE](https://portal.cin.ufpe.br/). I'm interested in LLMs and Agents, passionated about AI and problem-solving.
+I am an AI Engineer at [Praso](https://praso.com.br/), a B2B foodservice startup. I'm also a Computer Science Undergraduate at [Cin-UFPE](https://portal.cin.ufpe.br/). I'm interested in LLMs and Agents, passionated about AI and problem-solving.
 
 <div align="center">
     <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGfeuL2lsNScQAAAYjWRo2AqBa9OcZt8dbb1dEdJ5SawKAnYQRvwBGUWniXOQ9o65t5TAiVBqogqv5WbsvnL3U1ofRNqEUWWbQEncy9VA1tBSfCZ_Gko1ElKrETo4G4q_UNA6Q=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrederick-lopes-a02220202%2F" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
