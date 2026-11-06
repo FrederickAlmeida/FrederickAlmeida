@@ -27,16 +27,8 @@ I am an AI Engineer @ [Praso](https://praso.com.br/), a B2B foodservice startup.
   </tr></table>
 </div>
 
-## Programming Languages
-
-<div align="center">
-    <a href="https://github.com/FrederickAlmeida">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrederickAlmeida&layout=compact&langs_count=7&theme=dracula" style="border: none;"/>
-    </a>
-</div>
-
 ## My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FrederickAlmeida&show_icons=true&theme=tokyonight" style="border: none;"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=FrederickAlmeida&show_icons=true&theme=tokyonight" style="border: none;"/>
 </div>
